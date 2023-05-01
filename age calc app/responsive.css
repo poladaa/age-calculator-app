@@ -1,0 +1,27 @@
+@media screen and (max-width: 400px) {
+  .container {
+    max-width: 300px;
+  }
+
+  .result {
+    font-size: 1.4rem;
+  }
+
+  .group input {
+    width: 100%;
+    font-size: 0.8rem;
+  }
+
+  .group span {
+    width: 100%;
+    font-size: 0.5rem;
+    margin-top: 0.2rem;
+  }
+
+  .btn {
+    width: 20%;
+    transform: translate(170%);
+    font-size: 1.2rem;
+    font-weight: 700;
+  }
+}
